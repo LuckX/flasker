@@ -1,2 +1,2 @@
 # flasker
-A Flask project
+A Flask project which will show you a map
